@@ -1,15 +1,16 @@
 {
   "expo": {
-    "name": "secure-chat-mobile",
-    "slug": "secure-chat-mobile",
+    "name": "SecureChat",
+    "slug": "SecureChat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "securechatmobile",
+    "scheme": "securechat",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ahm3d.SecureChat"
     },
     "android": {
       "adaptiveIcon": {
